@@ -5,6 +5,6 @@ def main(x,y):
         x: int
         y: int
     Returns:
-        str: return answer.
+        str: return answer. 
     """
     return f'"({x}+{y})*2={x+y}"'

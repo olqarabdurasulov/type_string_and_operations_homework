@@ -5,6 +5,6 @@ def main(first,last):
         first: str
         last: str
     Returns:
-        str: return answer.
+        str: return answer. 
     """
     return f'"{last}, {first}"'

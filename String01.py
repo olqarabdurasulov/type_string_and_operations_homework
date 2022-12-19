@@ -5,5 +5,5 @@ def main():
     Returns:
         str: return answer.
     """
-    ans = "87654321"
-    return ans
+    
+    return "87654321"

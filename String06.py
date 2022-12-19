@@ -5,6 +5,6 @@ def main(s,n):
         s: str
         n: int
     Returns:
-        str: return answer.
+        str: return answer. 
     """
     return s*n

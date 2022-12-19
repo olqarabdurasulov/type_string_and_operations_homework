@@ -4,6 +4,6 @@ def main():
     Args:
         None
     Returns:
-        str: return answer.
+        str: return answer. 
     """
     return ""

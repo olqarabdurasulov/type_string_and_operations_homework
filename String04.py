@@ -4,7 +4,7 @@ def main():
     Args:
         None
     Returns:
-        str: return answer.
+        str:  return answer.
     """
     s = '"s"'
     return s

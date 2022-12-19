@@ -5,6 +5,6 @@ def main(s1,s2):
         s1: str
         s2: str
     Returns:
-        str: return answer.
+        str: return answer. 
     """
     return s1 + " " + s2

@@ -6,5 +6,5 @@ def main():
     Returns:
         str: return answer.
     """
-    ans = 'CODESCHOOLUZ'
-    return ans 
+    
+    return 'CODESCHOOLUZ'
